@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.acf3ed71.chunk.css",
+    "main.js": "/static/js/main.8388d739.chunk.js",
+    "main.js.map": "/static/js/main.8388d739.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ef296817.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ef296817.js.map",
+    "static/js/2.fac12272.chunk.js": "/static/js/2.fac12272.chunk.js",
+    "static/js/2.fac12272.chunk.js.map": "/static/js/2.fac12272.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.acf3ed71.chunk.css.map": "/static/css/main.acf3ed71.chunk.css.map",
+    "static/js/2.fac12272.chunk.js.LICENSE.txt": "/static/js/2.fac12272.chunk.js.LICENSE.txt",
+    "static/media/Logo-Emprenti-pequeño.abe68813.png": "/static/media/Logo-Emprenti-pequeño.abe68813.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef296817.js",
+    "static/js/2.fac12272.chunk.js",
+    "static/css/main.acf3ed71.chunk.css",
+    "static/js/main.8388d739.chunk.js"
+  ]
+}
